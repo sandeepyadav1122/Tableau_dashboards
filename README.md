@@ -50,7 +50,7 @@ This Tableau dashboard provides several key insights, such as:
 
 ## Dashboard Screenshot
 
-![SuperStore Sales Analysis Dashboard](./SS.png)
+![SS](https://github.com/user-attachments/assets/12a140bb-2814-4fab-b53c-a73c8bbf3de3)
 
 ## Contributing
 
