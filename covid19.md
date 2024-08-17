@@ -27,6 +27,3 @@ This Tableau project provides an interactive dashboard that visualizes COVID-19 
 ## Screenshot
 
 ![Covid 19 Dashboard](https://github.com/user-attachments/assets/2a5f54f4-fee4-47ea-a995-784f944d821b)
-
-```markdown
-![COVID-19 Dashboard Screenshot](path_to_screenshot.png)
