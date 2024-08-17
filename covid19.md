@@ -1,6 +1,7 @@
-# COVID-19 Dashboard
 
-## Overview
+<img src="https://github.com/user-attachments/assets/29316c6e-853e-429c-98ec-c059c42e3e5d" alt="covid stamp" width="500" height="300" />
+
+# Overview
 
 This Tableau project provides an interactive dashboard that visualizes COVID-19 data. It is designed to help users explore trends, patterns, and insights related to COVID-19 cases, recoveries, deaths, and other relevant metrics.
 
