@@ -1,5 +1,5 @@
 # SuperStore Sales Analysis Dashboard
-
+![preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfOWn2sO9bQ39397eQ-Xm2D6Gt14KNTQFkgA&s)
 ## Overview
 
 The **SuperStore Sales Analysis Dashboard** is a Tableau-based project aimed at providing comprehensive insights into the sales performance of the SuperStore. The dashboard visualizes key metrics such as sales, profit, and customer segments across different regions, products, and time periods. This tool helps stakeholders make informed decisions by highlighting trends, identifying high-performing categories, and uncovering potential areas for improvement.
