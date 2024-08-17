@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/29316c6e-853e-429c-98ec-c059c42e3e5d" alt="covid stamp" width="500" height="300" />
+<img src="https://github.com/user-attachments/assets/29316c6e-853e-429c-98ec-c059c42e3e5d" alt="covid stamp" width="600" height="400" />
 
 # Overview
 
